@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/startfruit/
+    - export DEPLOYPATH=/home/starfruit/
     - /bin/cp -R public_html $DEPLOYPATH
     - /bin/cp -R resources $DEPLOYPATH
