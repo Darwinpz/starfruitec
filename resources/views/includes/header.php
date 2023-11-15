@@ -29,7 +29,6 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div class="navbar-nav ms-auto">
-                    <a class="nav-link active" href="#"><i class="fa-brands fa-facebook-f"></i></a>
                     <a class="nav-link active" href="#"><i class="fa-brands fa-instagram"></i></a>
                 </div>
             </div>

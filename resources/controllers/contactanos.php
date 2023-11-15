@@ -1,6 +1,10 @@
 <?php
 
     class Contactanos extends Controlador{
+        
+        public function __construct(){
+
+        }
 
         public function index(){
         

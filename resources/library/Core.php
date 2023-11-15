@@ -10,13 +10,13 @@
 
     class Core{
 
-        protected $controladorActual = 'Inicio';
+        protected $controladorActual = 'inicio';
         protected $metodoActual = 'index';
         //protected $parametros = [];
 
         //constructor
         public function __construct(){
-
+            
             $url = $this->getUrl();
             
             
@@ -34,7 +34,7 @@
 
 
             }
-
+            
             //requerir el controlador
             require_once '../resources/controllers/'.$this->controladorActual.'.php';
 
