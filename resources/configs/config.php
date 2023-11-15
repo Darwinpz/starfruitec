@@ -12,7 +12,7 @@
 
     //Ruta url
 
-    define('RUTA_URL','http://localhost/starfruitec');
+    define('RUTA_URL','https://starfruitec.com');
 
     //Nombre del sitio
 
