@@ -22,21 +22,6 @@
 
     <div class="row">
 
-        <div class="col">
-
-            <div class="col col-12 col-sm-12 col-md-12 col-lg-12 text-center mb-2" >
-
-                <img src="<?php echo RUTA_URL;?>/img/mapa.png" class="img-fluid">
-
-            </div>
-
-        </div>
-
-    </div>
-
-
-    <div class="row">
-
         <div class="col col-12 col-sm-12 col-md-12 col-lg-6">
 
             <div class="row">
