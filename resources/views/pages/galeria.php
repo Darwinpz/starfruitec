@@ -10,7 +10,7 @@
                 
                 <div class="card-body">
                 
-                <h3 class="card-title text-center text-white">Galeria</h3>
+                <h3 class="card-title text-center text-white">Galería de Fotos</h3>
                 
                 </div>
                             
