@@ -35,7 +35,7 @@
         </div>
     </nav>
 
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light">
         <div class="container">
             <a class="navbar-brand" href="<?php echo RUTA_URL;?>">
                 <img src="<?php echo RUTA_URL;?>/img/logo-starfruit-256x169.png" alt="" width="120" height="80" class="d-inline-block align-text-top">
