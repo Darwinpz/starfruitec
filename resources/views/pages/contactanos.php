@@ -73,7 +73,7 @@
                 
                 <div class="card-body">
                     
-                    <h5 class="card-title text-center" style="color:#000c7a;"> ¡Dejanos un mensaje! </h5>
+                    <h5 class="card-title text-center" style="color:#000c7a;"> ¡Déjanos un mensaje! </h5>
                             
                     <p style="text-align: justify;">¡Nos encanta estar en contacto con nuestros clientes y ayudarte con cualquier consulta
                         o inquietud que tengas! Por favor, déjanos un mensaje a través del formulario de contacto y nos comunicaremos 
