@@ -29,7 +29,7 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div class="navbar-nav ms-auto">
-                    <a class="nav-link active" href="#"><i class="fa-brands fa-instagram"></i></a>
+                    <a class="nav-link active" href="https://www.instagram.com/starfruitcorp/" target="_blank"><b>@starfruitcorp <i class="fa-brands fa-instagram"></i></b></a>
                 </div>
             </div>
         </div>
@@ -48,6 +48,7 @@
                     <a class="nav-link <?php echo $cabecera!=null ? ($cabecera['item'] == 'inicio' ? 'active': '') : '' ?>" aria-current="page" href="<?php echo RUTA_URL;?>"><i class="fas fa-home"></i> <b>Inicio</b></a>
                     <a class="nav-link <?php echo $cabecera!=null ? ($cabecera['item'] == 'producto' ? 'active': '') : '' ?>" href="<?php echo RUTA_URL;?>/producto"><i class="fas fa-box"></i> <b>Nuestro Producto</b></a>
                     <a class="nav-link <?php echo $cabecera!=null ? ($cabecera['item'] == 'servicios' ? 'active': '') : '' ?>" href="<?php echo RUTA_URL;?>/servicios"><i class="fas fa-truck-fast"></i> <b>Servicios</b></a>
+                    <a class="nav-link <?php echo $cabecera!=null ? ($cabecera['item'] == 'galeria' ? 'active': '') : '' ?>" href="<?php echo RUTA_URL;?>/galeria"><i class="fas fa-image"></i> <b>Galeria</b></a>
                     <a class="nav-link <?php echo $cabecera!=null ? ($cabecera['item'] == 'contactanos' ? 'active': '') : '' ?>" href="<?php echo RUTA_URL;?>/contactanos"><i class="fas fa-location-dot"></i> <b>Contáctanos</b></a>
                 </div>
             </div>
