@@ -7,10 +7,10 @@
   </div>
   <div class="carousel-inner">
   <div class="carousel-item active">
-      <img class="d-block w-100" src="<?php echo RUTA_URL;?>/img/tropical_fruits.jpg" alt="First slide">
+      <img class="d-block w-100" src="<?php echo RUTA_URL;?>/img/banner_1.png" alt="First slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100"  src="<?php echo RUTA_URL;?>/img/vegetables_fruits.jpg" alt="Second slide">
+      <img class="d-block w-100"  src="<?php echo RUTA_URL;?>/img/banner_2.png" alt="Second slide">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
