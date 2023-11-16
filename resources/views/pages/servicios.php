@@ -44,7 +44,7 @@
 
         <div class="col text-center">
 
-            <div class="card">
+            <div class="card border border-success">
 
                 <div class="card-body">
                     <h5 style="color:#000c7a;"><b>FRUTAS TROPICALES</b></h5>
@@ -61,7 +61,7 @@
 
         <div class="col col-12 col-sm-12 col-md-12 col-lg-3 mb-2">
             
-            <div class="card text-center">
+            <div class="card border border-success text-center">
 
                 <div class="card-body">
 
@@ -76,7 +76,7 @@
 
         <div class="col col-12 col-sm-12 col-md-12 col-lg-3 mb-2">
             
-            <div class="card text-center">
+            <div class="card border border-success text-center">
 
                 <div class="card-body">
 
@@ -91,7 +91,7 @@
 
         <div class="col col-12 col-sm-12 col-md-12 col-lg-3 mb-2">
             
-            <div class="card text-center">
+            <div class="card border border-success text-center">
 
                 <div class="card-body">
 
@@ -106,7 +106,7 @@
 
         <div class="col col-12 col-sm-12 col-md-12 col-lg-3 mb-2">
             
-            <div class="card text-center">
+            <div class="card border border-success text-center">
 
                 <div class="card-body">
 
@@ -125,7 +125,7 @@
 
         <div class="col text-center">
 
-            <div class="card">
+            <div class="card border border-success">
 
                 <div class="card-body">
                     <h5 style="color:#000c7a;"><b>INFORMACIÓN</b></h5>
@@ -147,7 +147,7 @@
 
         <div class="col col-12 col-sm-12 col-md-12 col-lg-6">
 
-            <div class="card">
+            <div class="card border border-success">
 
                 <div class="card-body">
 
@@ -179,7 +179,7 @@
 
         <div class="col text-center">
 
-            <div class="card">
+            <div class="card border border-success">
 
                 <div class="card-body">
                     <h5 style="color:#000c7a;"><b>EMPAQUES</b></h5>

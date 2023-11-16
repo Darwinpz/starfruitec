@@ -35,7 +35,7 @@
 
         <div class="col col-12 col-sm-12 col-md-12 col-lg-6">
 
-            <div class="card">
+            <div class="card border border-success">
 
                 <div class="card-body">
 
@@ -59,7 +59,7 @@
 
         <div class="col col-12 col-sm-12 col-md-12 col-lg-6 mb-2">
 
-            <div class="card">
+            <div class="card border border-success">
 
                 <div class="card-body">
 
@@ -75,7 +75,7 @@
 
         <div class="col col-12 col-sm-12 col-md-12 col-lg-6 mb-2">
 
-            <div class="card">
+            <div class="card border border-success">
 
                 <div class="card-body">
 
@@ -96,7 +96,7 @@
 <div class="container">
     <div class="row mb-3">
         <div class="col">
-            <div class="card">
+            <div class="card border border-success">
                 <div class="card-body text-center">
                     <h4 style="color:#000c7a;">Valores</h4>
 
@@ -104,7 +104,7 @@
 
                         <div class="col col-12 col-sm-12 col-md-12 col-lg-4 mb-2">
                             
-                            <div class="card">
+                            <div class="card border border-success">
 
                                 <div class="card-body">
 
@@ -119,7 +119,7 @@
 
                         <div class="col col-12 col-sm-12 col-md-12 col-lg-4 mb-2">
                             
-                            <div class="card">
+                            <div class="card border border-success">
 
                                 <div class="card-body">
 
@@ -134,7 +134,7 @@
 
                         <div class="col col-12 col-sm-12 col-md-12 col-lg-4 mb-2">
                             
-                            <div class="card">
+                            <div class="card border border-success">
 
                                 <div class="card-body">
 
@@ -149,11 +149,11 @@
 
                     </div>
 
-                    <div class="row mt-3">
+                    <div class="row">
                         
                         <div class="col col-12 col-sm-12 col-md-12 col-lg-4 mb-2">
                                 
-                            <div class="card">
+                            <div class="card border border-success">
 
                                 <div class="card-body">
 
@@ -168,7 +168,7 @@
 
                         <div class="col col-12 col-sm-12 col-md-12 col-lg-4 mb-2">
                                 
-                            <div class="card">
+                            <div class="card border border-success">
 
                                 <div class="card-body">
 
@@ -183,7 +183,7 @@
 
                         <div class="col col-12 col-sm-12 col-md-12 col-lg-4 mb-2">
                                 
-                            <div class="card">
+                            <div class="card border border-success">
 
                                 <div class="card-body">
 

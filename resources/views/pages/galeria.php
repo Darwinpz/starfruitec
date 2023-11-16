@@ -41,7 +41,7 @@
 
                 <div class="col col-12 col-sm-12 col-md-12 col-lg-6 d-flex align-items-center mb-1">
 
-                    <div class="card" style="box-shadow: 0 2px 10px rgba(0,0,0,.075);">
+                    <div class="card border border-success" style="box-shadow: 0 2px 10px rgba(0,0,0,.075);">
 
                         <div class="card-body">
 
@@ -57,7 +57,7 @@
 
                 <div class="col col-12 col-sm-12 col-md-12 col-lg-6 d-flex align-items-center mb-1">
 
-                    <div class="card" style="box-shadow: 0 2px 10px rgba(0,0,0,.075);">
+                    <div class="card border border-success" style="box-shadow: 0 2px 10px rgba(0,0,0,.075);">
 
                         <div class="card-body">
 
@@ -73,7 +73,7 @@
 
                 <div class="col col-12 col-sm-12 col-md-12 col-lg-6 d-flex align-items-center mb-1">
 
-                    <div class="card" style="box-shadow: 0 2px 10px rgba(0,0,0,.075);">
+                    <div class="card border border-success" style="box-shadow: 0 2px 10px rgba(0,0,0,.075);">
 
                         <div class="card-body">
 
@@ -89,7 +89,7 @@
 
                 <div class="col col-12 col-sm-12 col-md-12 col-lg-6 d-flex align-items-center mb-1">
 
-                    <div class="card" style="box-shadow: 0 2px 10px rgba(0,0,0,.075);">
+                    <div class="card border border-success" style="box-shadow: 0 2px 10px rgba(0,0,0,.075);">
 
                         <div class="card-body">
 
@@ -116,7 +116,7 @@
 
                 <div class="col col-12 col-sm-12 col-md-12 col-lg-7 d-flex align-items-center mb-1">
 
-                    <div class="card" style="box-shadow: 0 2px 10px rgba(0,0,0,.075);">
+                    <div class="card border border-success" style="box-shadow: 0 2px 10px rgba(0,0,0,.075);">
 
                         <div class="card-body">
 
@@ -133,7 +133,7 @@
                 
                 <div class="col col-12 col-sm-12 col-md-12 col-lg-5 d-flex align-items-center mb-1">
 
-                    <div class="card" style="box-shadow: 0 2px 10px rgba(0,0,0,.075);">
+                    <div class="card border border-success" style="box-shadow: 0 2px 10px rgba(0,0,0,.075);">
 
                         <div class="card-body">
 
@@ -149,7 +149,7 @@
 
                 <div class="col col-12 col-sm-12 col-md-12 col-lg-12 d-flex align-items-center mb-1">
 
-                    <div class="card" style="box-shadow: 0 2px 10px rgba(0,0,0,.075);">
+                    <div class="card border border-success" style="box-shadow: 0 2px 10px rgba(0,0,0,.075);">
 
                         <div class="card-body">
 

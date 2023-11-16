@@ -26,10 +26,11 @@
 
         <div class="col text-center mt-3 mb-3">
 
-            <h5>No solo exportamos fruta, creamos relaciones comerciales de larga duración con nuestros clientes</h5>
+            <h5>No solo exportamos fruta, <span class="subrayar">creamos relaciones comerciales</span> de larga duración con nuestros clientes</h5>
 
         </div>
 
+        <link rel="stylesheet" href="<?php echo RUTA_URL;?>/css/subrayar.css" />
 
     </div>
 
@@ -38,7 +39,7 @@
 
         <div class="col text-center mb-3">
 
-            <div class="card">
+            <div class="card border border-success">
 
                 <div class="card-body">
                     <h5 style="color:#000c7a;"><b>BANANO CONVENCIONAL Y ORGÁNICO</b></h5>
@@ -59,14 +60,14 @@
 
         </div>
 
-        <div class="col col-12 col-sm-12 col-md-12 col-lg-6 d-flex align-items-center">
+        <div class="col col-12 col-sm-12 col-md-12 col-lg-6 d-flex">
 
-            <div class="card">
+            <div class="card d-grid align-items-center border border-success">
 
                 <div class="card-body">
 
-                    <h5 style="color:#000c7a;">CAJA TIPO 22XU</h5>
-                    <p style="text-align: justify;">Contenedores de 20 pallets, 54 cajas por pallet, en total 1080 cajas de banano tipo Cavendish, categoría AAA,
+                    <h4 class="text-center" style="color:#000c7a;">CAJA TIPO 22XU</h4>
+                    <p style="text-align: justify;font-size:20px;">Contenedores de 20 pallets, 54 cajas por pallet, en total 1080 cajas de banano tipo Cavendish, categoría AAA,
                         calidad Premium, peso neto requerido por el cliente.</p>
 
                 </div>
@@ -79,14 +80,14 @@
 
     <div class="row mt-3 mb-3">
 
-        <div class="col col-12 col-sm-12 col-md-12 col-lg-6 mb-2 d-flex align-items-center">
+        <div class="col col-12 col-sm-12 col-md-12 col-lg-6 mb-2 d-flex">
 
-            <div class="card">
+            <div class="card d-grid align-items-center border border-success">
 
                 <div class="card-body">
 
-                    <h5 style="color:#000c7a;">CAJA TIPO 208</h5>
-                    <p style="text-align: justify;">Contenedor en formato al granel <b>(sin pallets)</b> 1540 cajas de banano tipo Cavendish,
+                    <h4 style="color:#000c7a;" class="text-center">CAJA TIPO 208</h4>
+                    <p style="text-align: justify;font-size:20px;">Contenedor en formato al granel <b>(sin pallets)</b> 1540 cajas de banano tipo Cavendish,
                          categoría AAA, calidad Premium, peso neto requerido por el cliente.</p>
 
                 </div>

@@ -43,7 +43,7 @@
 
                 <div class="col col-12 col-sm-12 col-md-12 col-lg-12">
 
-                    <div class="card mb-2">
+                    <div class="card border border-success mb-2">
 
                         <div class="card-body">
 
@@ -60,7 +60,7 @@
 
                 <div class="col col-12 col-sm-12 col-md-12 col-lg-12">
 
-                    <div class="card mb-2">
+                    <div class="card border border-success mb-2">
                     
                         <div class="card-body">
 
@@ -84,7 +84,7 @@
 
         <div class="col col-12 col-sm-12 col-md-12 col-lg-6 d-flex">
 
-            <div class="card mb-2">
+            <div class="card border border-success mb-2">
                 
                 <div class="card-body">
                     
