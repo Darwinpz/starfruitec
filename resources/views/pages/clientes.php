@@ -26,7 +26,7 @@
 
         <div class="col text-center mt-3 mb-3">
 
-            <h5>Exportamos nuestros productos a nivel <span class="subrayar">Internacional</span></h5>
+            <h5>Exportamos nuestros productos a nivel <span class="subrayar">Mundial</span></h5>
 
         </div>
 
