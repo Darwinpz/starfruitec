@@ -23,14 +23,11 @@
 
     <div class="row">
 
-
         <div class="col text-center mt-3 mb-3">
 
             <h5>No solo exportamos fruta, <span class="subrayar">creamos relaciones comerciales</span> de larga duración con nuestros clientes</h5>
 
         </div>
-
-        <link rel="stylesheet" href="<?php echo RUTA_URL;?>/css/subrayar.css" />
 
     </div>
 

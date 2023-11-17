@@ -1,0 +1,68 @@
+.subrayar {
+    display: inline-block;
+    position: relative;
+}
+
+.subrayar::after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 4px;
+    bottom: -5px;
+    left: 0;
+    background-color: #ffc107;
+    transform: scaleX(0);
+    transform-origin: bottom right;
+    animation: intercale 3s infinite alternate;
+    /* 2s de duración, infinito y alterna la dirección */
+}
+
+@keyframes intercale {
+    0% {
+        transform: scaleX(0);
+        transform-origin: bottom right;
+    }
+
+    100% {
+        transform: scaleX(1);
+        transform-origin: bottom left;
+    }
+}
+
+#google_translate_element select {
+    background-color: #f6edfd;
+    color: black;
+    border: none;
+    border-radius: 3px;
+    padding: 6px 8px
+}
+
+.goog-logo-link,
+.goog-te-gadget span {
+
+    display: none !important;
+
+}
+
+.skiptranslate {
+
+    z-index: 0;
+
+}
+
+.goog-te-gadget {
+
+    color: transparent !important;
+    font-size: 0;
+
+}
+
+#goog-gt-tt,
+.goog-te-balloon-frame {
+    display: none !important;
+}
+
+.goog-text-highlight {
+    background: none !important;
+    box-shadow: none !important;
+}

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="Es-es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -15,15 +15,25 @@
         integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-        
+    <script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">
+        </script>
+
     <link rel="icon" type="image/x-icon" href="<?php echo RUTA_URL;?>/img/logo-starfruit-256x169.png">
+
+    <link rel="stylesheet" href="<?php echo RUTA_URL;?>/css/index.css" />
+
+    <script type="text/javascript" src="<?php echo RUTA_URL;?>/js/index.js"></script>
         
 </head>
 <body>
 
     <nav class="navbar navbar-expand-lg navbar-light bg-warning">
         <div class="container">
+
             <span><a href="mailto:informacion@starfruitec.com" style="text-decoration:none;color:black"><i class="fas fa-envelope"></i> informacion@starfruitec.com</span></a>
+            
+            <div style="margin-left:5px;" id="google_translate_element"></div>
+            
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>

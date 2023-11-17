@@ -30,8 +30,7 @@
 
         </div>
 
-        <link rel="stylesheet" href="<?php echo RUTA_URL;?>/css/subrayar.css" />
-
+        
     </div>
 
 
